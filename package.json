@@ -1,0 +1,20 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Curso de js com tdd na prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robertosousa86/js-tdd.git"
+  },
+  "keywords": [],
+  "author": "Roberto Sousa <robertosousa186@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robertosousa86/js-tdd/issues"
+  },
+  "homepage": "https://github.com/Robertosousa86/js-tdd#readme"
+}
